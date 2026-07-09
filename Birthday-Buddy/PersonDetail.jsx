@@ -8,7 +8,7 @@ const Persondetails = ({ img, Name, Age }) => {
 
       <div className="person-info">
         <h4>{Name}</h4>
-        <span>{Age}years</span>
+        <span>{Age} years</span>
       </div>
     </div>
   );
