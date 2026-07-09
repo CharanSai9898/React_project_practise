@@ -17,7 +17,7 @@ Demo
 
 ## Screenshot
 
-<img src="Screenshot 2026-07-09 091433.png"/>
+<img src="BirthdayBuddy-Screenshot.png"/>
 
 
 ## Run Locally
