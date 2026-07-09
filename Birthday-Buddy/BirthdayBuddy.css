@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f3e8ff;
+}
+
+/* Card */
+.birthday-container {
+  width: 600px;
+  background: #fff;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  animation: cardFade 0.7s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.birthday-container:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.birthday-container h4 {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+/* Person Row */
+.person {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+  padding: 8px;
+  border-radius: 10px;
+
+  animation: personSlide 0.6s ease;
+  animation-fill-mode: both;
+  transition: all 0.3s ease;
+}
+
+.person:hover {
+  background: #f8f8f8;
+  transform: translateX(10px);
+}
+
+/* Stagger Animation */
+.person:nth-child(2) {
+  animation-delay: 0.1s;
+}
+
+.person:nth-child(3) {
+  animation-delay: 0.2s;
+}
+
+.person:nth-child(4) {
+  animation-delay: 0.3s;
+}
+
+.person:nth-child(5) {
+  animation-delay: 0.4s;
+}
+
+.person:nth-child(6) {
+  animation-delay: 0.5s;
+}
+
+/* Image */
+.person-img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.person-img:hover {
+  transform: scale(1.1) rotate(5deg);
+}
+
+/* Name & Age */
+.person-info h4 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.person-info p {
+  margin: 5px 0 0;
+  color: gray;
+}
+
+/* Button */
+.btn {
+  width: 100%;
+  padding: 0.8rem;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 5px;
+  background: #d946ef;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: #c026d3;
+  transform: scale(1.03);
+}
+
+.btn:active {
+  transform: scale(0.96);
+  -webkit-transform: scale(0.96);
+  -moz-transform: scale(0.96);
+  -ms-transform: scale(0.96);
+  -o-transform: scale(0.96);
+}
+
+/* Animations */
+@keyframes cardFade {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes personSlide {
+  from {
+    opacity: 0;
+    transform: translateX(-40px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
