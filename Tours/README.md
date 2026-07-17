@@ -23,7 +23,7 @@ A React application that displays a list of tours fetched from an API. Users can
 
 ## Live Demo
 
-https://your-live-demo-link.com
+https://preeminent-salmiakki-17acd6.netlify.app/
 
 
 ## API Used
