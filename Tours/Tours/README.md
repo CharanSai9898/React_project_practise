@@ -1,16 +1,35 @@
-# React + Vite
+# Tours App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that displays a list of tours fetched from an API. Users can read more about each tour, remove tours they are not interested in, and refresh the list when all tours are removed.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Fetches tour data from an API
+- Loading spinner while fetching data
+- Read More / Show Less functionality
+- Remove individual tours
+- Refresh all tours after removing them
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript (ES6+)
+- CSS
+- Fetch API
 
-## Expanding the ESLint configuration
+## Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img src="Demo.gif" alt="Tours App Demo" />
+
+## Live Demo
+
+https://your-live-demo-link.com
+
+
+## API Used
+
+https://www.course-api.com/react-tours-project
+
+## Author
+
+Charan Sai
