@@ -19,7 +19,7 @@ A React application that displays a list of tours fetched from an API. Users can
 
 ## Demo
 
-<img src="Demo.gif"/>
+<img src="Demo.gif" width="600">
 
 ## Live Demo
 
