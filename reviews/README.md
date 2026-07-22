@@ -1,18 +1,30 @@
-# React + Vite
+# Reviews App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Interactive **React Reviews App** built using React Hooks. Users can browse through different reviews using Previous and Next buttons. The project demonstrates state management, event handling, conditional rendering, and component styling in React.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Display reviewer image, name, job title, and description.
+- Navigate through reviews using **Previous** and **Next** buttons.
+- Circular profile image with a quote icon overlay.
+- Responsive card layout.
+- Clean and modern UI.
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+<img width="700" alt="Reviews App Preview" src="https://via.placeholder.com/700x400?text=Add+Your+Project+Screenshot+Here">
 
-Note: This will impact Vite dev & build performances.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 👨‍💻 Author
+
+**Charan Sai**
+
+GitHub: https://github.com/CharanSai9898
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
