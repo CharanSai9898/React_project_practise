@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import people from "./data";
 import { FaChevronLeft, FaChevronRight, FaQuoteRight } from "react-icons/fa";
 import "./style.css";
@@ -20,6 +20,12 @@ const App = () => {
       return newIndex < 0 ? people.length - 1 : newIndex;
     });
   };
+ useEffect(()=>{
+  people.forEach((person) => {
+    const img = new Image();
+    img.src = person.image;
+  });
+ },[]);
 
   return (
     <main>
