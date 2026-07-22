@@ -1,3 +1,5 @@
+Live Demo - https://fabulous-kashata-6a5f56.netlify.app/
+
 # Birthday Buddy 🎂
 
 A simple React app that displays a list of birthdays and allows users to clear the list with a single click.
@@ -13,11 +15,11 @@ A simple React app that displays a list of birthdays and allows users to clear t
 
 Demo
 
-<img src="github.gif" width="600">
+<img src="src/github.gif" width="600">
 
 ## Screenshot
 
-<img src="BirthdayBuddy-Screenshot.png"/>
+<img src="src/BirthdayBuddy-Screenshot.png"/>
 
 
 ## Author

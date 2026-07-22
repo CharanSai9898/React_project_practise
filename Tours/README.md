@@ -1,3 +1,5 @@
+Live Demo - https://preeminent-salmiakki-17acd6.netlify.app/
+
 # Tours App
 
 A React application that displays a list of tours fetched from an API. Users can read more about each tour, remove tours they are not interested in, and refresh the list when all tours are removed.
@@ -20,10 +22,6 @@ A React application that displays a list of tours fetched from an API. Users can
 ## Demo
 
 <img src="Demo.gif" width="600">
-
-## Live Demo
-
-https://preeminent-salmiakki-17acd6.netlify.app/
 
 
 ## API Used
