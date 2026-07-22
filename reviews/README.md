@@ -14,14 +14,7 @@ A Interactive **React Reviews App** built using React Hooks. Users can browse th
 - Navigate through reviews using **Previous** and **Next** buttons.
 - Circular profile image with a quote icon overlay.
 - Responsive card layout.
-- Clean and modern UI.
-
-## 📸 Preview
-
-<img width="700" alt="Reviews App Preview" src="https://via.placeholder.com/700x400?text=Add+Your+Project+Screenshot+Here">
-
-
-
+- Clean and modern UI
 
 ## 👨‍💻 Author
 
@@ -30,7 +23,3 @@ A Interactive **React Reviews App** built using React Hooks. Users can browse th
 GitHub: https://github.com/CharanSai9898
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub!
