@@ -15,8 +15,9 @@ A simple application that displays a list of birthdays and allows users to clear
 - useState
 - Rendering Lists
 
-hostedLink -  https://fabulous-kashata-6a5f56.netlify.app/
- source code- https://github.com/CharanSai9898/React_project_practise/tree/main/BirthdayBuddy
+HostedLink -  https://fabulous-kashata-6a5f56.netlify.app/
+
+Source code- https://github.com/CharanSai9898/React_project_practise/tree/main/BirthdayBuddy
 
 ---
 2. 🌍 Tours App
@@ -29,8 +30,9 @@ A React application that fetches tour data from an API. Users can remove tours, 
 - State Management
 - Conditional Rendering
 
-  hostedLink - https://preeminent-salmiakki-17acd6.netlify.app/ 
- source code- https://github.com/CharanSai9898/React_project_practise/tree/main/Tours
+  HostedLink - https://preeminent-salmiakki-17acd6.netlify.app/
+  
+  Source code- https://github.com/CharanSai9898/React_project_practise/tree/main/Tours
 ---
 
 3. ⭐ Reviews App
@@ -42,8 +44,9 @@ An interactive reviews application where users can browse through different revi
 - Conditional Rendering
 - Component Reusability
   
-  hostedLink - https://incredible-creponne-6f9a0a.netlify.app/
- source code- https://github.com/CharanSai9898/React_project_practise/tree/main/reviews
+  HostedLink - https://incredible-creponne-6f9a0a.netlify.app/
+  
+  Source code- https://github.com/CharanSai9898/React_project_practise/tree/main/reviews
 ---
 
 4.📚 React Accordion
@@ -55,8 +58,9 @@ A responsive FAQ Accordion that allows users to expand and collapse questions wi
 - React Icons
 - Responsive UI
 
-    hostedLink -  https://fabulous-kashata-6a5f56.netlify.app/
- source code -  https://github.com/CharanSai9898/React_project_practise/tree/main/question
+    HostedLink -  https://fabulous-kashata-6a5f56.netlify.app/
+  
+  Source code -  https://github.com/CharanSai9898/React_project_practise/tree/main/question
 
 ---
 
