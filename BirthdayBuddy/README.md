@@ -15,7 +15,7 @@ A simple React app that displays a list of birthdays and allows users to clear t
 
 Demo
 
-<img src="src/github.gif" width="600">
+<img src="src/github.gif" width="600"/>
 
 ## Screenshot
 
