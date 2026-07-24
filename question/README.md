@@ -1,60 +1,33 @@
-# 📚 React Accordion
+Live Demo - https://fabulous-kashata-6a5f56.netlify.app/
 
-Demo 
+# React Accordion 📚
 
+A modern React FAQ Accordion that allows users to expand and collapse questions with a clean, responsive, and interactive user interface.
 
-<img src="./accordiondemogif.gif" alt="Accordion Demo" width="700">
-      
+## Features
 
-A modern and responsive FAQ Accordion built using **React**, **React Hooks**, and **React Icons**. This project demonstrates how to manage component state using `useState` and conditionally render content with a clean and user-friendly UI.
+- Expand and collapse questions
+- Toggle answers using Plus/Minus icons
+- Responsive design
+- Smooth hover animations
+- Modern card-based UI
+- Component-based architecture
 
+## Tech Stack
 
-## ✨ Features
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- React Icons
 
-- 📂 Expand and collapse questions
-- ⚛️ Built with React Functional Components
-- 🎯 State management using `useState`
-- ➕ Plus/Minus toggle icons
-- 🎨 Modern responsive UI
-- ⚡ Smooth hover and transition effects
-- 💻 Clean component-based architecture
+## Demo
 
+<img src="accordiondemogif.gif" width="600">
 
+## Screenshot
 
+<img src="Accordion-Screenshot.png"/>
 
-
-
-
-
-## 💡 Concepts Covered
-
-- React Components
-- Props
-- useState Hook
-- Conditional Rendering
-- Event Handling
-- JSX
-- Array Mapping
-- Component Reusability
-- CSS Flexbox
-- Responsive Design
-
----
-
-## 📷 UI Features
-
-- Modern card layout
-- Sky blue themed design
-- Hover animations
-- Rounded corners
-- Smooth transitions
-- Professional typography
-- Responsive layout
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Charan Sai**
-
-GitHub: https://github.com/CharanSai9898
