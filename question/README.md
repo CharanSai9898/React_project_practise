@@ -1,6 +1,6 @@
 # 📚 React Accordion
 
-live Demo - <img src="src/accordiondemo.mp4"/>
+live Demo - <video src="src/accordiondemo.mp4"/>
 
 A modern and responsive FAQ Accordion built using **React**, **React Hooks**, and **React Icons**. This project demonstrates how to manage component state using `useState` and conditionally render content with a clean and user-friendly UI.
 
