@@ -24,9 +24,6 @@ A modern React FAQ Accordion that allows users to expand and collapse questions 
 
 <img src="accordiondemogif.gif" width="600">
 
-## Screenshot
-
-<img src="Accordion-Screenshot.png"/>
 
 ## Author
 
