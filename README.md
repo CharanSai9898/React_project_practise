@@ -64,9 +64,6 @@ A responsive FAQ Accordion that allows users to expand and collapse questions wi
 
 ---
 
-
-
-- 
 ## 👨‍💻 Author
 
 **Charan Sai**
