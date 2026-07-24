@@ -1,25 +1,33 @@
-Live - https://incredible-creponne-6f9a0a.netlify.app/
+Live Demo - https://incredible-creponne-6f9a0a.netlify.app/
 
-Demo
+# Reviews App ⭐
 
-<img src="Reviewsss.gif"/>
+A modern React application that lets users browse through different reviews using Previous, Next, and Surprise Me functionality. This project demonstrates React Hooks, state management, event handling, and component-based design.
 
-# Reviews App
+## Features
 
-A Interactive **React Reviews App** built using React Hooks. Users can browse through different reviews using Previous and Next buttons. The project demonstrates state management, event handling, conditional rendering, and component styling in React.
+- Display reviewer image, name, job title, and description
+- Previous and Next navigation
+- Random review (Surprise Me)
+- Responsive card layout
+- Interactive UI with hover effects
+- Smooth and modern design
 
-## 🚀 Features
+## Tech Stack
 
-- Display reviewer image, name, job title, and description.
-- Navigate through reviews using **Previous** and **Next** buttons.
-- Circular profile image with a quote icon overlay.
-- Responsive card layout.
-- Clean and modern UI
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- React Icons
 
-## 👨‍💻 Author
+## Demo
+
+<img src="Reviewsss.gif" width="600">
+
+## Screenshot
+
+<img src="Reviews-Screenshot.png"/>
+
+## Author
 
 **Charan Sai**
-
-GitHub: https://github.com/CharanSai9898
-
----
