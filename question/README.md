@@ -58,7 +58,3 @@ A modern and responsive FAQ Accordion built using **React**, **React Hooks**, an
 **Charan Sai**
 
 GitHub: https://github.com/CharanSai9898
-
----
-
-⭐ If you like this project, consider giving it a **Star** on GitHub!
