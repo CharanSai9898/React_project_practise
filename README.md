@@ -58,9 +58,9 @@ A responsive FAQ Accordion that allows users to expand and collapse questions wi
 - React Icons
 - Responsive UI
 
-    HostedLink -  https://fabulous-kashata-6a5f56.netlify.app/
+    HostedLink - https://tranquil-mooncake-d44757.netlify.app/
   
-  Source code -  https://github.com/CharanSai9898/React_project_practise/tree/main/question
+  Source code - https://github.com/CharanSai9898/React_project_practise/tree/main/Accordion
 
 ---
 
