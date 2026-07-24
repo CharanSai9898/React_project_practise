@@ -24,10 +24,6 @@ A modern React application that lets users browse through different reviews usin
 
 <img src="Reviewsss.gif" width="600">
 
-## Screenshot
-
-<img src="Reviews-Screenshot.png"/>
-
 ## Author
 
 **Charan Sai**
