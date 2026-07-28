@@ -1,4 +1,4 @@
-Live Demo - https://fabulous-kashata-6a5f56.netlify.app/
+Live Demo - https://birthdaybuddyapp12.netlify.app/
 
 # Birthday Buddy 🎂
 
