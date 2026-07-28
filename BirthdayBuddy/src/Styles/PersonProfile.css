@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.profile-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #38bdf8, #0ea5e9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.profile-card {
+  width: 100%;
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.profile-card:hover {
+  transform: translateY(-6px);
+}
+
+.profile-image {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 6px solid #38bdf8;
+  margin-bottom: 1.5rem;
+}
+
+.profile-card h1 {
+  color: #0f172a;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.info-box {
+  background: #f8fafc;
+  border-left: 5px solid #38bdf8;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: left;
+}
+
+.info-box h3 {
+  color: #0284c7;
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.info-box p {
+  color: #334155;
+  font-size: 1rem;
+}
+
+.back-btn{
+  margin-top:25px;
+  width:100%;
+  padding:12px;
+  border:none;
+  border-radius:10px;
+  background:#0ea5e9;
+  color:white;
+  font-size:18px;
+  cursor:pointer;
+  transition:.3s;
+}
+
+.back-btn:hover{
+  background:#0284c7;
+}
+
+/* ---------- Tablet ---------- */
+
+@media (max-width: 768px) {
+  .profile-card {
+    max-width: 380px;
+    padding: 1.8rem;
+  }
+
+  .profile-image {
+    width: 150px;
+    height: 150px;
+  }
+
+  .profile-card h1 {
+    font-size: 1.8rem;
+  }
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 480px) {
+  .profile-container {
+    padding: 1rem;
+  }
+
+  .profile-card {
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 15px;
+  }
+
+  .profile-image {
+    width: 120px;
+    height: 120px;
+    border-width: 4px;
+  }
+
+  .profile-card h1 {
+    font-size: 1.5rem;
+  }
+
+  .info-box {
+    padding: 0.8rem;
+  }
+
+  .info-box h3 {
+    font-size: 0.9rem;
+  }
+
+  .info-box p {
+    font-size: 0.95rem;
+  }
+}

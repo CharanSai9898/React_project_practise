@@ -1,7 +1,7 @@
 import { useState } from "react";
-import PersonDetails from "./PersonDetails";
-import { birthdaypersons } from "./BirthdayBuddydata";
-import "./BirthdayBuddy.css";
+import PersonDetails from "../components/PersonDetails";
+import { birthdaypersons } from "../data/BirthdayBuddydata";
+import "../Styles/BirthdayBuddy.css";
 
 const BirthdayBuddy = () => {
   const [people, setPeople] = useState(birthdaypersons);

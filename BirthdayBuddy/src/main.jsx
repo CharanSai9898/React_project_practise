@@ -1,5 +1,10 @@
 import { createRoot } from "react-dom/client";
-import BirthdayBuddy from "./BirthdayBuddy";
-import "./BirthdayBuddy.css";
+import { BrowserRouter } from "react-router-dom";
+import App from "./App";
+import "./Styles/BirthdayBuddy.css";
 
-createRoot(document.getElementById("root")).render(<BirthdayBuddy />);
+createRoot(document.getElementById("root")).render(
+  <BrowserRouter>
+    <App />
+  </BrowserRouter>,
+);
