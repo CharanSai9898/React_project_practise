@@ -15,7 +15,7 @@ A simple application that displays a list of birthdays and allows users to clear
 - useState
 - Rendering Lists
 
-HostedLink -  https://fabulous-kashata-6a5f56.netlify.app/
+HostedLink -  https://birthdaybuddyapp12.netlify.app/
 
 Source code- https://github.com/CharanSai9898/React_project_practise/tree/main/BirthdayBuddy
 
